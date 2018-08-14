@@ -1,7 +1,7 @@
 # sketch-your-image
 Adding filters to the image, giving it a sketch like look. More than 165 filters to try on.
 ### This is the first version. The work is still in progress.
-### How to contribute
+## How to contribute
 See the issues and pick one. Fork the repository, solve issue and send pull request. If everything seems good, it will be merged. 
 ## Credits
 The image so used 'viratkohli.jpg' is obtained from google search and I claim no right for it. Just using it for testing purpose.:)<br>
